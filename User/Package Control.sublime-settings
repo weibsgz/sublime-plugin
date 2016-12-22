@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Less"
+	],
+	"installed_packages":
+	[
+		"HTML-CSS-JS Prettify",
+		"Less",
+		"Package Control",
+		"Vue Syntax Highlight"
+	]
+}
